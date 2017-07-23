@@ -1,2 +1,5 @@
 # Hello-world
-My repository
+
+Hi Guys!
+
+Ademilua here, I like C# 
